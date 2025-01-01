@@ -1,3 +1,6 @@
+"""
+找出数组中的单一元素
+"""
 def single_number(nums):
     result = 0
     for num in nums:
