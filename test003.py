@@ -1,3 +1,6 @@
+"""
+实现一个加权的随机选择
+"""
 import random
 
 class WeightedRandomPicker:
