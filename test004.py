@@ -1,3 +1,6 @@
+"""
+反转字符串并判断回文
+"""
 def reverse_and_check_palindrome(s):
     # 反转字符串
     reversed_s = s[::-1]
