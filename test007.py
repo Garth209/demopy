@@ -1,3 +1,10 @@
+"""
+题目：找出列表中出现次数最多的元素
+题目要求：
+
+给定一个列表 lst，你需要找出出现次数最多的元素。
+如果有多个元素出现次数相同，则返回其中最小的元素。
+"""
 from collections import Counter
 
 def most_common_element(lst):
