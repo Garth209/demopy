@@ -1,3 +1,6 @@
+"""
+判断一个字符串是否是回文
+"""
 def is_palindrome(s):
     return s == s[::-1]
 
